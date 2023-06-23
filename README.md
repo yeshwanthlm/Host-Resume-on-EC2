@@ -1,2 +1,1 @@
-# Host-Resume-on-EC2
-Host-Resume-on-EC2
+# Deploy Resume to AWS EC2 Using GitHub Actions
